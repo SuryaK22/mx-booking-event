@@ -82,7 +82,7 @@
     ],
     "capabilities": {
         "deepLink": {
-            "value": "https",
+            "value": "makeitnative",
             "enabled": true,
             "android": {
                 "webLinks": [
